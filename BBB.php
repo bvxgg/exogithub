@@ -13,8 +13,8 @@
 
 <body>
 
-  <h1>ça va ?</h1>
-  <b>Elite de la nation</b>
+  <h1>Maes est mort</h1>
+
   <script src="js/script.js"></script>
 </body>
 
