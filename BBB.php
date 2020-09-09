@@ -13,7 +13,7 @@
 
 <body>
 
-  <h1>ça va ?</h1>
+  <h1>Maes est mort</h1>
 
   <script src="js/script.js"></script>
 </body>
