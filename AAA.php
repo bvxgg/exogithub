@@ -14,7 +14,7 @@
 <body>
 
   <h1>Salut</h1>
-
+  <b>ISSOU la chancla</b>
   <script src="js/script.js"></script>
 </body>
 
