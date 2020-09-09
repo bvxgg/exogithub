@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-salut ma gueule
-=======
 <!DOCTYPE html>
 <html>
 
@@ -22,4 +19,3 @@ salut ma gueule
 </body>
 
 </html>
->>>>>>> eefe4800697e73f579bbd40d35ae6078db4683ec
